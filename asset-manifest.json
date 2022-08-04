@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/ita-hometask/static/js/main.fc2a9739.js",
+    "static/media/body-js.png": "/ita-hometask/static/media/body-js.98b7d9a931927b2dff54.png",
+    "static/media/logo-js.png": "/ita-hometask/static/media/logo-js.9d8c912f1a689a62b28f.png",
+    "index.html": "/ita-hometask/index.html",
+    "main.fc2a9739.js.map": "/ita-hometask/static/js/main.fc2a9739.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.fc2a9739.js"
+  ]
+}
